@@ -2,17 +2,6 @@
 
 This project extends the Multi-Agent Travel Planning System built in Part 1 by integrating MCP (Model Context Protocol) servers for real-time flight and weather data.
 
-## Part 1 of This Project
-
-**GitHub Repository:**  
-https://github.com/codewithaarohi/AI-Travel-Planning-System-using-LangGraph
-
-**Video Tutorial:**  
-Build a Real-World Multi-Agent AI System using LangGraph | Multi-Agent AI + Memory + APIs  
-https://youtu.be/ctHby5vhDqg
-
----
-
 # Requirements
 
 ## APIs
